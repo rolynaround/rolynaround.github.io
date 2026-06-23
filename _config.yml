@@ -1,4 +1,4 @@
-title: "rolynaround"
+title: "rolyn"
 description: "everything cycling blog"
 theme: minima
 
@@ -17,4 +17,6 @@ kramdown:
   input: GFM
 
 # Social links (optioneel)
-github_username: lynn-meier
+- title: Instagram
+    icon: fa-instagram
+    url: https://instagram.com/rolynaround
