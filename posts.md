@@ -1,6 +1,6 @@
 ---
 layout: home
-title: welcome
+title: posts
 ---
 
 welcome!
