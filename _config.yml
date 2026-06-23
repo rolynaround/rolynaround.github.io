@@ -1,6 +1,19 @@
-/
-|-- _config.yml
-|-- index.md
-|-- about.md
-|-- map.md
-|-- _posts/
+title: "rolynaround"
+description: "everything cycling blog"
+theme: minima
+
+url: "https://lynn-meier.github.io"
+baseurl: "/rolynaround.github.io"
+
+# Navigatie-menu
+header_pages:
+  - about.md
+  - map.md
+
+# Markdown instellingen
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Social links (optioneel)
+github_username: lynn-meier
